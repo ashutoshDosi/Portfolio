@@ -109,33 +109,27 @@ export const testimonials = [
 export const companies = [
   {
     id: 1,
-    name: "cloudinary",
-    img: "/cloud.svg",
-    nameImg: "/cloudName.svg",
+    name: "Carnera Technologies",
+    img: "",
+    nameImg: "",
   },
   {
     id: 2,
-    name: "appwrite",
-    img: "/app.svg",
-    nameImg: "/appName.svg",
+    name: "ISTE-KJSCE",
+    img: "",
+    nameImg: "",
   },
   {
     id: 3,
-    name: "HOSTINGER",
-    img: "/host.svg",
-    nameImg: "/hostName.svg",
+    name: "Organising Group - KJSCE",
+    img: "",
+    nameImg: "",
   },
   {
     id: 4,
-    name: "stream",
-    img: "/s.svg",
-    nameImg: "/streamName.svg",
-  },
-  {
-    id: 5,
-    name: "docker.",
-    img: "/dock.svg",
-    nameImg: "/dockerName.svg",
+    name: "Akudo",
+    img: "",
+    nameImg: "",
   },
 ];
 
@@ -143,28 +137,28 @@ export const workExperience = [
   {
     id: 1,
     title: "Frontend Engineer Intern",
-    desc: "Assisted in the development of a web-based platform using React.js, enhancing interactivity.",
+    desc: "Assisted in the development of an internal project.",
     className: "md:col-span-2",
-    thumbnail: "/exp1.svg",
+    thumbnail: "",
   },
   {
     id: 2,
-    title: "Mobile App Dev - JSM Tech",
-    desc: "Designed and developed mobile app for both iOS & Android platforms using React Native.",
+    title: "Web & Tech Team Member",
+    desc: "Created a website for Prakalpa 2024 which is a Software/Hardware and Research paper presentation competition for all new age technologies.",
     className: "md:col-span-2", // change to md:col-span-2
-    thumbnail: "/exp2.svg",
+    thumbnail: "",
   },
   {
     id: 3,
-    title: "Freelance App Dev Project",
-    desc: "Led the dev of a mobile app for a client, from initial concept to deployment on app stores.",
+    title: "Organising Group Member",
+    desc: "Hosted events such as Abhiyantriki-KJ Somaiya College of Engineering’s Tech Expo and Skream-Inter College Sports competition.",
     className: "md:col-span-2", // change to md:col-span-2
     thumbnail: "/exp3.svg",
   },
   {
     id: 4,
-    title: "Lead Frontend Developer",
-    desc: "Developed and maintained user-facing features using modern frontend technologies.",
+    title: "Social Media Marketing Intern",
+    desc: "Hosted multiple financial awareness events with minimum 100+ participants / event. Increased engagement on social media handles. Driven Beta testing and user experience feedback ",
     className: "md:col-span-2",
     thumbnail: "/exp4.svg",
   },
